@@ -17,3 +17,5 @@ Two datasets were utilized to test the performance of the MLP.
 
 ## Project Objective
 The primary objective of this project was to identify the optimal combination of parameters and hyperparameters for addressing the clothing classification problem. Specifically, the investigation involved rigorous testing to ascertain the most effective size for MultiLayer Perceptron (MLP) depth and width, as well as the optimal activation function for the MLP's hidden layers. Additionally, the project included a comprehensive exploration of standard hyperparameters, such as learning rate and weight initialization. This thorough examination aimed to establish a robust foundation for achieving superior performance in clothing classification through systematic parameter tuning.
+
+**Further Details are provided in the report attached to this repository**
